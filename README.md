@@ -2,10 +2,6 @@
 
 A lightweight Platform-as-a-Service (PaaS) that automatically deploys applications from GitHub repositories using Docker and Kubernetes (K3s).
 
-## 🎥 Platform Demo
-
-[![Watch the Demo](https://img.youtube.com/vi/Mvhvi2XvUTQ/0.jpg)](https://www.youtube.com/watch?v=Mvhvi2XvUTQ)
-
 
 Users submit a GitHub repository, and the platform automatically:
 
@@ -23,12 +19,6 @@ Users submit a GitHub repository, and the platform automatically:
 This project demonstrates DevOps, container orchestration, and platform engineering concepts.
 
 
-## Author
-
-Anantha Sridhar
-
-DevOps • Platform Engineering • Cloud Infrastructure
-## Prerequisites
 
 Before setting up the platform, ensure you have:
 
