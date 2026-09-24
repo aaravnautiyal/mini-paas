@@ -124,7 +124,7 @@ Recommended providers:
 Example domain:
 
 ```bash
-deploywithanantha.xyz
+abc.xyz
 ```
 
 This domain will be used to route traffic to applications deployed in Kubernetes.
@@ -141,7 +141,7 @@ Example:
 
 Example result:
 ```bash
-deploywithanantha.xyz → 54.xx.xx.xx
+abc.xyz → 54.xx.xx.xx
 ```
 ## Step 1 — Create an AWS EC2 Instance
 
