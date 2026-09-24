@@ -84,8 +84,8 @@ DOCKER_REPO = "YOUR_DOCKER_HUB_REPO"
 
 Example:
 ```bash
-DOCKER_USERNAME = "Anantha Sridhar"
-DOMAIN = "deploywithanantha.xyz"
+DOCKER_USERNAME = "abc"
+DOMAIN = "abc.xyz"
 DOCKER_REPO = "mini-platform"
 ```
 
